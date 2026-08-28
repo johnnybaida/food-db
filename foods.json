@@ -1,6 +1,6 @@
 {
-  "source": "Tabelle di Composizione degli Alimenti CREA (alimentinutrizione.it), valori per 100 g di parte edibile. Importato da build_db_from_crea.py. Eventuali alimenti non-CREA arrivano da foods_extra.json.",
-  "note": "Ogni voce ha crea_id per tracciabilita'. I numeri vengono dalla scheda CREA, non da stime. Per alimenti non presenti vedi references/formulation.md.",
+  "source": "Tabelle di Composizione degli Alimenti, valori per 100 g di parte edibile.",
+  "note": "Ogni voce ha crea_id per tracciabilita'. I numeri vengono dalla scheda CREA, non da stime.",
   "schema": "name, category, crea_id, per100g{kcal,protein_g,carb_g,fat_g,fiber_g}",
   "count": 834,
   "foods": [
